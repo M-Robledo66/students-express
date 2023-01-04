@@ -5,6 +5,7 @@ import { students } from './data/students.data.js'
 
 // Create Express app
 
+
 const app = express()
 
 // Configure the app (app.set)
